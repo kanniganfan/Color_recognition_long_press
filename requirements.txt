@@ -1,3 +1,4 @@
 pyautogui==0.9.54
 keyboard==0.13.5
-pywin32==308; platform_system == "Windows" 
+pywin32==308; platform_system == "Windows"
+pyinstaller==6.11.1
